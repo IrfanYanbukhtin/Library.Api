@@ -1,0 +1,15 @@
+C:\Users\Asery_valha\source\repos\Library\Library.BLL\bin\Debug\net6.0\Library.BLL.deps.json
+C:\Users\Asery_valha\source\repos\Library\Library.BLL\bin\Debug\net6.0\Library.BLL.dll
+C:\Users\Asery_valha\source\repos\Library\Library.BLL\bin\Debug\net6.0\Library.BLL.pdb
+C:\Users\Asery_valha\source\repos\Library\Library.BLL\bin\Debug\net6.0\Library.DAL.dll
+C:\Users\Asery_valha\source\repos\Library\Library.BLL\bin\Debug\net6.0\Library.DAL.pdb
+C:\Users\Asery_valha\source\repos\Library\Library.BLL\obj\Debug\net6.0\Library.BLL.csproj.AssemblyReference.cache
+C:\Users\Asery_valha\source\repos\Library\Library.BLL\obj\Debug\net6.0\Library.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asery_valha\source\repos\Library\Library.BLL\obj\Debug\net6.0\Library.BLL.AssemblyInfoInputs.cache
+C:\Users\Asery_valha\source\repos\Library\Library.BLL\obj\Debug\net6.0\Library.BLL.AssemblyInfo.cs
+C:\Users\Asery_valha\source\repos\Library\Library.BLL\obj\Debug\net6.0\Library.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Asery_valha\source\repos\Library\Library.BLL\obj\Debug\net6.0\Library.BLL.csproj.CopyComplete
+C:\Users\Asery_valha\source\repos\Library\Library.BLL\obj\Debug\net6.0\Library.BLL.dll
+C:\Users\Asery_valha\source\repos\Library\Library.BLL\obj\Debug\net6.0\refint\Library.BLL.dll
+C:\Users\Asery_valha\source\repos\Library\Library.BLL\obj\Debug\net6.0\Library.BLL.pdb
+C:\Users\Asery_valha\source\repos\Library\Library.BLL\obj\Debug\net6.0\ref\Library.BLL.dll
